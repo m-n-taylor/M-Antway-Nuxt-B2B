@@ -507,3 +507,4 @@ export function getSeoProduct(item){
   seo_arr = seo_arr.filter(rr=>rr)
   return `/product/${item.id}.${seo_arr.join('-')}`
 }
+// update: 2025-07-31T19:30:57.247181

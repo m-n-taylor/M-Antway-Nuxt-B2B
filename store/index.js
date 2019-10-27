@@ -211,3 +211,5 @@ export const actions = {
     Cookie.set('banner_home', banners, {domain})
   },
 }
+
+// update: 2025-07-31T19:31:36.990749

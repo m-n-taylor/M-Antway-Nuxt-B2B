@@ -42,3 +42,5 @@ export function add(data) {
 export function historyPindanOfProduct(product_id) {
   return api.get('/pindan/product/'+product_id)   
 }
+
+// update: 2025-07-31T19:33:56.001036

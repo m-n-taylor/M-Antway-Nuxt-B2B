@@ -27,3 +27,5 @@ export function setLang(lang) {
   return Cookies.set('lang', lang, {domain})
 }
 
+
+// update: 2025-07-31T19:37:35.174642

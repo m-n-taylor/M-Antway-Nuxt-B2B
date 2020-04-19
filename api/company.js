@@ -66,3 +66,5 @@ export function getVisitList(params, expoid=-1) {
 export function companySearch(c_name) {
   return api.get('/company/search?name='+c_name) 
 }
+
+// update: 2025-07-31T19:39:08.870346

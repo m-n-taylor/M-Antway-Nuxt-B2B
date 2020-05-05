@@ -4,3 +4,5 @@ export default function ({store,redirect}) {
     return redirect('/')
   }
 }
+
+// update: 2025-07-31T19:40:28.169790

@@ -54,3 +54,5 @@ export function offer_del(ids) {
     data:{ids}
   })
 }
+
+// update: 2025-07-31T19:41:51.415144

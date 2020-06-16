@@ -11,3 +11,5 @@ Example: `/static/robots.txt` is mapped as `/robots.txt`.
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
 
 <!-- update: 2025-07-31T19:30:50.090488 -->
+
+<!-- update: 2025-07-31T19:43:05.112545 -->

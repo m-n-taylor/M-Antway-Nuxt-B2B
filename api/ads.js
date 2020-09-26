@@ -31,3 +31,4 @@ export function getAdsBanner(type) {
     method: 'GET',
   })
 }
+// update: 2025-07-31T19:48:26.162583

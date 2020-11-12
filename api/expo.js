@@ -146,3 +146,5 @@ export function getHallDetail(id) {
 // expocontent/id/{expo_id}/{type}
   
 // update: 2025-07-31T19:31:23.990003
+
+// update: 2025-07-31T19:50:49.821160

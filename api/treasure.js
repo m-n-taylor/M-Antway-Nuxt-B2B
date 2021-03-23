@@ -28,3 +28,5 @@ export function getListForGuest(data={limit:4, page:1}) {
 export function getDetail(id) {
   return api.get('/purchase/'+id) 
 }
+
+// update: 2025-07-31T19:57:10.170277
